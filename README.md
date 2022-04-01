@@ -6,5 +6,5 @@ The Adobe Analytics Challenge is a unique analytics-focused business case compet
 More about the competition can be found [here](https://adobeanalyticschallenge.com/). <br> <br>
 **Team name:** Wacarale <br>
 **Members:** Lenka Raslova & Catherine Wang <br>
-**Software:** Adobe Analytics <br>
+**Tool:** Adobe Analytics <br>
 **Data:** Disney <br>
